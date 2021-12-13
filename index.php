@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>My CV</title>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/aos.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="styles/main.css" rel="stylesheet">
+  </head>
+  <body id="top">
+    <header>
+      <div class="profile-page sidebar-collapse">
+        <nav class="navbar navbar-expand-lg fixed-top navbar-transparent bg-primary" color-on-scroll="400">
+          <div class="container">
+            <div class="navbar-translate"><a class="navbar-brand" href="#" rel="tooltip">My CV</a>
+              <button class="navbar-toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-bar bar1"></span><span class="navbar-toggler-bar bar2"></span><span class="navbar-toggler-bar bar3"></span></button>
+            </div>
+            <div class="collapse navbar-collapse justify-content-end" id="navigation">
+              <ul class="navbar-nav">
+                <li class="nav-item"><a class="nav-link smooth-scroll" href="#about">A propos</a></li>
+                <li class="nav-item"><a class="nav-link smooth-scroll" href="#skill">Compétences</a></li>
+                <!-- <li class="nav-item"><a class="nav-link smooth-scroll" href="#portfolio">Portfolio</a></li> -->
+                <li class="nav-item"><a class="nav-link smooth-scroll" href="#experience">Experience</a></li>
+                <li class="nav-item"><a class="nav-link smooth-scroll" href="#contact">Contact</a></li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <div class="page-content">
+      <div>
+<div class="profile-page">
+  <div class="wrapper">
+    <div class="page-header page-header-small" filter-color="green">
+      <div class="page-header-image" data-parallax="true" style="background-image: url('images/cc-bg-1.jpg');"></div>
+      <div class="container">
+        <div class="content-center">
+          <div class="cc-profile-image"><a href="#"><img src="images/th.jpg" alt="Image"/></a></div>
+          <div class="h2 title">Thuret Gbenougan</div>
+          <p class="category text-white">Web Developer, Graphic Designer </p><a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Engagez moi</a><a class="btn btn-primary" href="cv.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Télécharger  CV</a>
+        </div>
+      </div>
+      <div class="section">
+        <div class="container">
+          <div class="button-container"><a class="btn btn-default btn-round btn-lg btn-icon" href="#" rel="tooltip" title="Follow me on Facebook"><i class="fa fa-facebook"></i></a><a class="btn btn-default btn-round btn-lg btn-icon" href="#" rel="tooltip" title="Follow me on Twitter"><i class="fa fa-twitter"></i></a><a class="btn btn-default btn-round btn-lg btn-icon" href="#" rel="tooltip" title="Follow me on Google+"><i class="fa fa-google-plus"></i></a><a class="btn btn-default btn-round btn-lg btn-icon" href="#" rel="tooltip" title="Follow me on Instagram"><i class="fa fa-instagram"></i></a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="section" id="about">
+  <div class="container">
+    <div class="card" data-aos="fade-up" data-aos-offset="10">
+      <div class="row">
+        <div class="col-lg-6 col-md-12">
+          <div class="card-body">
+            <div class="h4 mt-0 title">A propos</div>
+            <p>Bonjour! Je suis Thuret GBENOUGAN. Développeur Web, Graphiste .</p>
+          </div>
+        </div>
+        <div class="col-lg-6 col-md-12">
+          <div class="card-body">
+            <div class="h4 mt-0 title"> Information Basique</div>
+            <div class="row">
+              <div class="col-sm-4"><strong class="text-uppercase">Age:</strong></div>
+              <div class="col-sm-8">21</div>
+            </div>
+            <div class="row mt-3">
+              <div class="col-sm-4"><strong class="text-uppercase">Email:</strong></div>
+              <div class="col-sm-8">tgenougan@gmal.com</div>
+            </div>
+            <div class="row mt-3">
+              <div class="col-sm-4"><strong class="text-uppercase">Telephone:</strong></div>
+              <div class="col-sm-8">+22996631611</div>
+            </div>
+            <div class="row mt-3">
+              <div class="col-sm-4"><strong class="text-uppercase">Adresse:</strong></div>
+              <div class="col-sm-8">Albarika, Parakou, BENIN</div>
+            </div>
+            <div class="row mt-3">
+              <div class="col-sm-4"><strong class="text-uppercase">Language:</strong></div>
+              <div class="col-sm-8">Anglais, Fon, Francais</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="section" id="skill">
+  <div class="container">
+    <div class="h4 text-center mb-4 title">Compétences Professionnelles</div>
+    <div class="card" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
+      <div class="card-body">
+        <div class="row">
+          <div class="col-md-6">
+            <div class="progress-container progress-primary"><span class="progress-badge">HTML</span>
+              <div class="progress">
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div><span class="progress-value">80%</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="progress-container progress-primary"><span class="progress-badge">CSS</span>
+              <div class="progress">
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"></div><span class="progress-value">75%</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <div class="progress-container progress-primary"><span class="progress-badge">JavaScript</span>
+              <div class="progress">
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;"></div><span class="progress-value">60%</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="progress-container progress-primary"><span class="progress-badge">Laravel</span>
+              <div class="progress">
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;"></div><span class="progress-value">60%</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <div class="progress-container progress-primary"><span class="progress-badge">Bootstrap</span>
+              <div class="progress">
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"></div><span class="progress-value">75%</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="progress-container progress-primary"><span class="progress-badge">Photoshop</span>
+              <div class="progress">
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div><span class="progress-value">70%</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- <div class="section" id="portfolio">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 ml-auto mr-auto">
+        <div class="h4 text-center mb-4 title">Portfolio</div>
+        <div class="nav-align-center">
+          <ul class="nav nav-pills nav-pills-primary" role="tablist">
+            <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#web-development" role="tablist"><i class="fa fa-laptop" aria-hidden="true"></i></a></li>
+            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#graphic-design" role="tablist"><i class="fa fa-picture-o" aria-hidden="true"></i></a></li>
+            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#Photography" role="tablist"><i class="fa fa-camera" aria-hidden="true"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="tab-content gallery mt-5">
+      <div class="tab-pane active" id="web-development">
+        <div class="ml-auto mr-auto">
+          <div class="row">
+            <div class="col-md-6">
+              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
+                  <figure class="cc-effect"><img src="images/project-1.jpg" alt="Image"/>
+                    <figcaption>
+                      <div class="h4">Recent Project</div>
+                      <p>Web Development</p>
+                    </figcaption>
+                  </figure></a></div>
+              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
+                  <figure class="cc-effect"><img src="images/project-2.jpg" alt="Image"/>
+                    <figcaption>
+                      <div class="h4">Startup Project</div>
+                      <p>Web Development</p>
+                    </figcaption>
+                  </figure></a></div>
+            </div>
+            <div class="col-md-6">
+              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
+                  <figure class="cc-effect"><img src="images/project-3.jpg" alt="Image"/>
+                    <figcaption>
+                      <div class="h4">Food Order Project</div>
+                      <p>Web Development</p>
+                    </figcaption>
+                  </figure></a></div>
+              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
+                  <figure class="cc-effect"><img src="images/project-4.jpg" alt="Image"/>
+                    <figcaption>
+                      <div class="h4">Web Advertising Project</div>
+                      <p>Web Development</p>
+                    </figcaption>
+                  </figure></a></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="tab-pane" id="graphic-design" role="tabpanel">
+        <div class="ml-auto mr-auto">
+          <div class="row">
+            <div class="col-md-6">
+              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#graphic-design">
+                  <figure class="cc-effect"><img src="images/graphic-design-1.jpg" alt="Image"/>
+                    <figcaption>
+                      <div class="h4">Triangle Pattern</div>
+                      <p>Graphic Design</p>
+                    </figcaption>
+                  </figure></a></div>
+              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#graphic-design">
+                  <figure class="cc-effect"><img src="images/graphic-design-2.jpg" alt="Image"/>
+                    <figcaption>
+                      <div class="h4">Abstract Umbrella</div>
+                      <p>Graphic Design</p>
+                    </figcaption>
+                  </figure></a></div>
+            </div>
+            <div class="col-md-6">
+              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#graphic-design">
+                  <figure class="cc-effect"><img src="images/graphic-design-3.jpg" alt="Image"/>
+                    <figcaption>
+                      <div class="h4">Cube Surface Texture</div>
+                      <p>Graphic Design</p>
+                    </figcaption>
+                  </figure></a></div>
+              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#graphic-design">
+                  <figure class="cc-effect"><img src="images/graphic-design-4.jpg" alt="Image"/>
+                    <figcaption>
+                      <div class="h4">Abstract Line</div>
+                      <p>Graphic Design</p>
+                    </figcaption>
+                  </figure></a></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="tab-pane" id="Photography" role="tabpanel">
+        <div class="ml-auto mr-auto">
+          <div class="row">
+            <div class="col-md-6">
+              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#Photography">
+                  <figure class="cc-effect"><img src="images/photography-1.jpg" alt="Image"/>
+                    <figcaption>
+                      <div class="h4">Photoshoot</div>
+                      <p>Photography</p>
+                    </figcaption>
+                  </figure></a></div>
+              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#Photography">
+                  <figure class="cc-effect"><img src="images/photography-3.jpg" alt="Image"/>
+                    <figcaption>
+                      <div class="h4">Wedding Photoshoot</div>
+                      <p>Photography</p>
+                    </figcaption>
+                  </figure></a></div>
+            </div>
+            <div class="col-md-6">
+              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#Photography">
+                  <figure class="cc-effect"><img src="images/photography-2.jpg" alt="Image"/>
+                    <figcaption>
+                      <div class="h4">Beach Photoshoot</div>
+                      <p>Photography</p>
+                    </figcaption>
+                  </figure></a></div>
+              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#Photography">
+                  <figure class="cc-effect"><img src="images/photography-4.jpg" alt="Image"/>
+                    <figcaption>
+                      <div class="h4">Nature Photoshoot</div>
+                      <p>Photography</p>
+                    </figcaption>
+                  </figure></a></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div> -->
+<div class="section" id="experience">
+  <div class="container cc-experience">
+    <div class="h4 text-center mb-4 title">Experience</div>
+    <div class="card">
+      <div class="row">
+        <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body cc-experience-header">
+            <p>Aout – Décembre 2019</p>
+            <div class="h5">Webmaster</div>
+          </div>
+        </div>
+        <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body">
+            <div class="h5">Front End Developer</div>
+            <p>Stage de type professionnel en Développement web à GlobalTechHubs Cotonou.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body cc-experience-header">
+            <p>Aout – Décembre 2019 </p>
+            <div class="h5">Webmaster</div>
+          </div>
+        </div>
+        <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body">
+            <div class="h5">Web Developer</div>
+            <p>Stage de type professionnel en Développement web à GlobalTechHubs Cotonou.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body cc-experience-header">
+            <p>2018-2019</p>
+            <div class="h5">Maintenance</div>
+          </div>
+        </div>
+        <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body">
+            <div class="h5">Maintenancier</div>
+            <p>Stage de type ouvrier en Maintenance Electrique, Informatique Et Télecoms à l’Hôpital de Zone de Calavi</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="section">
+  <div class="container cc-education">
+    <div class="h4 text-center mb-4 title">Diplôme</div>
+    <div class="card">
+      <div class="row">
+        <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body cc-education-header">
+            <p>2018 - 2019</p>
+            <div class="h5">Licence</div>
+          </div>
+        </div>
+        <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body">
+            <div class="h5">Licence en Informatiique</div>
+            <p class="category">Institut Universitaire de Technologie de Lokossa</p>
+            <p>Licence en Génie Electrique et Informatique Industrielle option Informatique et Telecom à IUT Lokossa.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body cc-education-header">
+            <p>2014 - 2015</p>
+            <div class="h5">Baccalaureat</div>
+          </div>
+        </div>
+        <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body">
+            <div class="h5">BAC</div>
+            <p class="category">Collège Catholique Les Hibiscus</p>
+            <p>Baccalauréat Scientifique (Bac D) au Collège Catholique Les Hibiscus Parakou.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- <div class="card">
+      <div class="row">
+        <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body cc-education-header">
+            <p>2007 - 2009</p>
+            <div class="h5">High School</div>
+          </div>
+        </div>
+        <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body">
+            <div class="h5">Science and Mathematics</div>
+            <p class="category">School of Secondary board</p>
+            <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae, curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium molestie ultricies sollicitudin dui.</p>
+          </div>
+        </div>
+      </div>
+    </div> -->
+  </div>
+</div>
+<div class="section" id="reference">
+  <div class="container cc-reference">
+    <div class="h4 mb-4 text-center title">References</div>
+    <div class="card" data-aos="zoom-in">
+      <div class="carousel slide" id="cc-Indicators" data-ride="carousel">
+        <ol class="carousel-indicators">
+          <li class="active" data-target="#cc-Indicators" data-slide-to="0"></li>
+          <li data-target="#cc-Indicators" data-slide-to="1"></li>
+          <li data-target="#cc-Indicators" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="row">
+              <div class="col-lg-2 col-md-3 cc-reference-header"><img src="images/da.jpg" alt="Image"/>
+                <div class="h5 pt-2">Damien</div>
+                <p class="category">CEO / GlobalTechHubs</p>
+              </div>
+              <div class="col-lg-10 col-md-9">
+                <p>“INVENTIV STARTUP CEO 500” EST L’ACCÉLÉRATEUR MONDIAL D’INNOVATION & DE TALENTS LE PLUS INCLUSIF QUI INSPIRE, ENCADRE, INSTALLE ET LANCE LES MEILLEURES IDÉES LES PLUS INNOVANTES DE 1500 JEUNES INNOVATEURS EN 500 ENTREPRISES STARTUP TECHNOLOGIQUES AYANT UN GRAND POTENTIEL DE CROISSANCE RAPIDE ET D’EXPANSION INTERNATIONALES AVEC DES SOLUTIONS OU TECHNOLOGIES COMMERCIALEMENT VIABLES SUR LE MARCHE MONDIAL. </p>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="row">
+              <div class="col-lg-2 col-md-3 cc-reference-header"><img src="images/da.jpg" alt="Image"/>
+                <div class="h5 pt-2">Damien</div>
+                <p class="category">Webmaster</p>
+              </div>
+              <div class="col-lg-10 col-md-9">
+                <p>Le Webmaster conçoit, développe et anime un site internet. De la définition du cahier des charges à l’animation éditoriale d’un site en passant par le développement, l’hébergement, le graphisme et le référencement, il est le véritable couteau suisse du web, toujours à l’affût de l’actualité et un peu touche-à-tout. </p>
+
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="row">
+              <div class="col-lg-2 col-md-3 cc-reference-header"><img src="images/c.jpg" alt="Image"/>
+                <div class="h5 pt-2">Conceptia</div>
+                <p class="category">Technicienne </p>
+              </div>
+              <div class="col-lg-10 col-md-9">
+                <p>  Un technicien doit s'assurer du bon fonctionnement et de l'entretien des équipements de travail, il intervient au premier niveau opérationnel, il s'occupe de la réparation et la maintenance des systèmes et des composants lorsqu'il s'agit d'un environnement de production, comme il a la charge des diverses</p>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="section" id="contact">
+  <div class="cc-contact-information" style="background-image: url('images/staticmap.png');">
+    <div class="container">
+      <div class="cc-contact">
+        <div class="row">
+          <div class="col-md-9">
+            <div class="card mb-0" data-aos="zoom-in">
+              <div class="h4 text-center title">Contactez Moi</div>
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="card-body">
+                    <form action="index.php" method="POST">
+                      <div class="p pb-3"><strong>contactez moi </strong></div>
+                      <div class="row mb-3">
+                        <div class="col">
+                          <div class="input-group"><span class="input-group-addon"><i class="fa fa-user-circle"></i></span>
+                            <input class="form-control" type="text" name="name" placeholder="Name" required="required"/>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="row mb-3">
+                        <div class="col">
+                          <div class="input-group"><span class="input-group-addon"><i class="fa fa-file-text"></i></span>
+                            <input class="form-control" type="text" name="Subject" placeholder="Subject" required="required"/>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="row mb-3">
+                        <div class="col">
+                          <div class="input-group"><span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+                            <input class="form-control" type="email" name="email" placeholder="E-mail" required="required"/>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="row mb-3">
+                        <div class="col">
+                          <div class="form-group">
+                            <textarea class="form-control" name="message" placeholder="Your Message" required="required"></textarea>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col">
+                          <button class="btn btn-primary" type="submit">Contactez</button>
+                        </div>
+                      </div>
+                    </form>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="card-body">
+                    <p class="mb-0"><strong>Adresse </strong></p>
+                    <p class="pb-2">Albariika, Parakou, Benin</p>
+                    <p class="mb-0"><strong>Telephone</strong></p>
+                    <p class="pb-2">+22996631611</p>
+                    <p class="mb-0"><strong>Email</strong></p>
+                    <p>tgenougan@gmal.com</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div></div>
+    </div>
+    <footer class="footer">
+      <div class="container text-center"><a class="cc-facebook btn btn-link" href="#"><i class="fa fa-facebook fa-2x " aria-hidden="true"></i></a><a class="cc-twitter btn btn-link " href="#"><i class="fa fa-twitter fa-2x " aria-hidden="true"></i></a><a class="cc-google-plus btn btn-link" href="#"><i class="fa fa-google-plus fa-2x" aria-hidden="true"></i></a><a class="cc-instagram btn btn-link" href="#"><i class="fa fa-instagram fa-2x " aria-hidden="true"></i></a></div>
+      <div class="h4 title text-center">Thuret Gbenougan</div>
+      <div class="text-center text-muted">
+        <p>&copy;  CV. All rights reserved.<br>Design - <a class="credit" href="#" target="_blank">TG</a></p>
+      </div>
+    </footer>
+    <script src="js/core/jquery.3.2.1.min.js"></script>
+    <script src="js/core/popper.min.js"></script>
+    <script src="js/core/bootstrap.min.js"></script>
+    <script src="js/now-ui-kit.js?v=1.1.0"></script>
+    <script src="js/aos.js"></script>
+    <script src="scripts/main.js"></script>
+  </body>
+</html>
+
+<?php 
+    if (!empty($_POST['name']) && !empty($_POST['Subject']) && !empty($_POST['email']) && !empty($_POST['message'])) {
+        $message =$_POST['message']. ' envoye par:' .$_POST['email'];
+        mail('thuretgbg@gmail.com', $_POST['Subject'], $message);
+    }
+    else {
+        header('Location: index.php');
+        exit();
+    }
+?>
